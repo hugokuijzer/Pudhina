@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Welkom
+subtitle: Robin hood
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="https://e7.pngegg.com/pngimages/242/324/png-clipart-robin-hood-hat-club-penguin-robin-hood-t-shirt-top-hat-robin-leaf-hat-thumbnail.png" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Welkom bij de robin hood webquest</p>
+	<p>Je begint door hier <strong> <a href="/Pudhina/index2"> te klikken</a> </strong></p>
 </div>
